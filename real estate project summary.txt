@@ -1,0 +1,102 @@
+*Dataset Overview:-
+
+ -The dataset contains more than 10,000 records.
+ -It includes multiple related tables such as Agents, Offices, Owners, and Neighborhoods.
+ -The data needs to be cleaned and transformed before building models and visualizations.
+ -The project focuses on analyzing property prices, agent performance, and neighborhood trends.
+
+*Business Context:-
+
+ -The dataset is available in a structured format.
+ -This project represents a real-world data analytics use case involving data cleaning and modeling.
+ -The data belongs to a mid-sized real estate company operating across multiple cities.
+ -All data files are provided in Excel (.xlsx) format.
+ -Key business areas include pricing trends, agent efficiency, sales patterns, and neighborhood risk analysis.
+
+*Challenges Faced:-
+
+ -Data is spread across multiple Excel sheets with inconsistent formats.
+ -Presence of null values and empty rows.
+ -Requirement to establish correct relationships between multiple tables.
+ -Identification and removal of duplicate records.
+
+*Project Objectives
+
+ -To clean, validate, and standardize the dataset.
+ -To design interactive Power BI dashboards that support business analysis.
+ -To deliver actionable insights that help management in decision-making.
+
+*Data Cleaning Methodology
+
+ -All datasets are loaded into Power BI using Transform Data mode.
+ -Power Query Editor is used to:
+    Detect and handle null values
+    Remove duplicates
+    Fix incorrect data types
+    Standardize column formats
+
+*Data Modeling Approach
+
+ -Proper relationships are maintained across all tables.
+ -Implemented different relationship types:
+     One-to-Many
+     Many-to-One
+     One-to-One
+     Many-to-Many
+ -Created City and Neighborhood hierarchies to enable drill-down analysis.
+
+*Power BI Dashboard Features
+
+ -Multiple dashboards were created, including:
+     Property Pricing Dashboard
+     Agent Performance Dashboard
+     Neighborhood Analysis Dashboard
+     Office Performance Dashboard
+ -Dashboards display sales trends, revenue, pricing, and performance metrics.
+
+*Key Insights Generated
+
+ -Identification of high-value property locations.
+ -Analysis of faster-selling properties and top-performing offices.
+ -Recognition of sales and pricing trends over time.
+ -Support for predictive insights related to pricing and sales performance.
+
+*Business Impact
+
+ -Supports data-driven decision-making.
+ -Helps manage properties across multiple neighborhoods and cities.
+ -Assists in price optimization and revenue planning.
+ -Enables informed investment decisions.
+
+*Problem Statement
+
+-The objective of this project is to analyze a real-world real estate dataset to uncover meaningful insights
+ related to property performance, agent productivity, pricing trends, and sales efficiency using Power BI.
+
+1. Property Market Performance Analysis
+
+ -Clean and transform datasets, especially date and pricing fields.
+ -Handle missing values, blank rows, and unused columns.
+ -Build dashboards to analyze:
+     Property listings
+     Pricing patterns
+     Sales performance
+
+Visuals Used:
+ -Line chart to track property listings over time
+ -Bar chart to compare property prices across locations
+ -Slicers for dynamic filtering
+
+2. Agent Productivity & Sales Efficiency
+
+ -Clean agent-related datasets and correct data types.
+ -Handle null values and duplicate records.
+ -Create dashboards to evaluate:
+      Agent sales performance
+      Conversion rates
+      Regional productivity
+
+Visuals Used:
+ -Bar chart to identify top-performing agents
+ -Line chart to analyze conversion rate trends
+ -Slicers to filter results by region, agent, and time
