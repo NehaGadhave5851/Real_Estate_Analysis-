@@ -1,7 +1,8 @@
 # Real_Estate_Analysis-
 Python project
 # 🏠 Real Estate Analytics Dashboard — Power BI
-![property-price-appreciation](https://github.com/user-attachments/assets/77597404-f5d6-4fe4-a2f2-1636241176cb)
+![<img width="612" height="344" alt="image" src="https://github.com/user-attachments/assets/73bc8ac4-f3d0-4ef2-8de6-a6eb3f8b7766" />
+)
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-F2C811?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
@@ -132,204 +133,236 @@ A professional Power BI template designed for analyzing property valuations, lis
 📊 Alex Smith focuses on fewer but selective deals
 
 ---
-###  Location-Based Pricing 
+###  Real Estate Office Performance
 
-<img width="857" height="617" alt="DASHBOARD 4" src="https://github.com/user-attachments/assets/67414ef8-095c-4c05-9bb4-499136568ae4" />
-
-### Insights —
-
-📌 1. Geographical Market Value Insight
-
-Major Texas cities (Dallas, Austin, Houston) show strong market activity, indicating high property demand across the region.
-
-🏷️ 2. Average ListedPrice by State Insight
-
-Texas (TX) properties have a consistently high listed price, reflecting a strong statewide real estate market.
-
-🌆 3. Avg MarketValue by City Insight
-
-Houston leads in market value, followed closely by Austin and Dallas, showing competitive pricing across cities.
-
-🏠 4. Neighborhood vs Avg MarketValue Insight
-
-Neighborhoods show similar market values, indicating stable pricing patterns across different localities.
-
-📊 5. City–PropertyType Distribution Insight
-
-Dallas has the highest total property count, while Austin and Houston have moderate but well-balanced inventories across property types.
-
----
-### Listing Type (Rent / Sale / Lease) 
-
-<img width="857" height="617" alt="DASHBOARD 5" src="https://github.com/user-attachments/assets/954cc57b-23d1-4641-8092-66f34737cc86" />
+![](https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-20%20010422.png!)
 
 ### Insights —
 
-🧾 1. Listing Type Distribution Insight
+🏢 Real Estate Office Performance
 
-Sale listings dominate the market (50%), while Rent and Lease listings are nearly equal at ~25% each.
+🔹 Total Offices: 50
+🔹 Total Properties: 10,000
 
-🌆 2. SquareFeet by City Insight
+📌 Office-wise Performance
 
-Dallas holds the largest total square footage, followed by Austin and then Houston, indicating larger or more numerous properties.
+🏆 Office 15 & Office 28 manage the highest number of properties
 
-💰 3. Average Listed Price by Listing Type Insight
+📊 Property distribution is fairly balanced across top offices
 
-Lease properties have the highest average listed price, slightly above sale and rental listings.
+📌 Listed Value
 
-🏠 4. Total Sale Properties Insight
+💰 Top offices contribute the highest total listed value
 
-There are 5040 sale listings, making it the largest category in the dataset.
+📉 Smaller offices show comparatively lower market impact
 
-🔑 5. Total Rental Properties Insight
+📌 Location Insights
 
-A total of 2466 rental listings reflect moderate rental market activity.
+🗺️ Austin, Dallas & Houston are the strongest office locations
+
+🌆 Urban regions dominate office performance
+
+📌 Trend Analysis
+
+📉 Property listings show a downward trend over time
+
+⏳ Indicates reduced monthly listings or seasonal slowdown
 
 ---
- ### Agent Performance Dashboard
+### Real Estate Price Analysis
+
+![](https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-20%20010548.png)
+
+### Insights —
+
+🔹 Max Price: 900K
+🔹 Min Price: 80K
+
+📌 Property Type Pricing
+
+🏡 Villas have the highest average price
+
+🏢 Apartments, Condos & Duplex show similar mid-range pricing
+
+📌 City-wise Average Price
+
+🌆 Houston, Austin & Dallas show almost equal average prices (~0.49M)
+
+⚖️ Indicates stable pricing across cities
+
+📌 Price Distribution
+
+🥧 Property types are evenly distributed
+
+📊 No single property type dominates the market
+---
+ ### Real Estate Sales Dashboard
  
-<img width="857" height="617" alt="DASHBOARD 6" src="https://github.com/user-attachments/assets/d64f5bf7-edf6-4529-9ad1-e1c3a2b64eea" />
+![](https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-20%20010619.png)
 
 ### Insights —
 
-👥 1. Total Agents Insight
+🔹 Total Listings: 10,000
+🔹 Total Listed Value: 5 Billion
 
-The organization has 300 active agents, indicating a strong and well-distributed workforce.
+📌 Listings Trend
 
-🧑‍💼 2. Agent Experience Breakdown Insight
+📉 Listings decline from January to February
 
-Most agents have 10–20 years of experience, showing a highly experienced and mature agent pool.
+🕒 Suggests market slowdown or reduced inventory
 
-📋 3. Agent Details Insight
+📌 City-wise Listed Value
 
-Top agents listed have strong experience records and valid licensing, reflecting a reliable team structure.
+🏆 Austin leads in total listed value
 
-🌍 4. Region-Wise Value & Agent Summary Insight
+🏙️ Houston follows closely
 
-The West and South regions generate the highest market and listed value, indicating these regions contribute most to revenue.
+🌇 Dallas shows relatively lower contribution
 
-📊 5. Regional Distribution of Agents Insight
+📌 Price vs Market Value
 
-Agent distribution is well-balanced, with the South region having the highest number of agents, followed closely by the West and East.
+🔍 Strong positive relationship between listed price & market value
+
+📈 Higher listed prices lead to higher market value
+
+📌 Agent Performance
+
+🏅 John Doe & John Smith lead in total listings
+
+📊 Other agents show steady but lower contributions
 
 ---
-###  Owner Portfolio Dashboard
+###  Real Estate Neighborhood Analysis – Key Insights
 
-<img width="857" height="617" alt="DASHBOARD 7" src="https://github.com/user-attachments/assets/87fb983e-8f5e-42ad-bbf0-65da41bc635f" />
+![](https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-20%20010748.png)
 
 ### Insights —
 
-1. Total Ownership Strength
-The portfolio includes 500 owners, indicating a large and diverse ownership base.
+🏘️ Real Estate Neighborhood Analysis – Key Insights
 
-2. Dallas Leads in Ownership
-Dallas has the highest number of owners, followed by Austin and Houston, showing stronger engagement in Dallas.
+🔹 Total Neighborhoods: 200
+🔹 Total Properties: 10,000
 
-3. Broad Property Distribution
-Property counts per owner vary widely, showing a balanced spread of ownership across the portfolio.
+📌 Listings Trend
 
-4. High-Value Owners Identified
-Owners like Sarah, Linda, and Peter show higher average market value, contributing significantly to portfolio value.
+📉 Property listings show a continuous decline over time
 
-5. Overall Value Consistency
-Most owners maintain similar average market values, reflecting a stable property market.
+⏳ Indicates slowing market activity or seasonal impact
+
+📌 Top Neighborhoods
+
+🏆 Top 10 neighborhoods have high average listed prices (~0.55–0.59M)
+
+💎 Premium pricing zones are clearly identifiable
+
+📌 City-wise Distribution
+
+🌆 Austin has the highest property count
+
+🏙️ Houston follows
+
+🌇 Dallas has comparatively fewer properties
+
+📌 Geographical Insights
+
+🗺️ High-value neighborhoods are concentrated in major urban cities
+
+📍 Location plays a key role in pricing variation
+---
+### Market Evaluation Dashboard
+
+![](https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-20%20033424.png)
+
+### Insights —
+
+📊 Market Evaluation Dashboard – Key Insights
+
+🔹 Total Market Value: ~4.9 Billion
+
+📌 City Contribution
+
+🏆 Dallas contributes the highest market value
+
+📈 Austin and Houston show strong but lower contributions
+
+📌 Property Type Performance
+
+🏡 Villas have the highest market value contribution
+
+🏢 Apartments & Duplex follow closely
+
+🏠 Houses contribute comparatively less
+
+📌 Price Segmentation
+
+💰 Premium listed prices dominate total market value
+
+📊 Mid-range properties show stable market share
+
+📌 Filter-based Insights
+
+🎛️ Furnishing & condition filters help analyze quality-wise pricing
+
+🔍 Enables detailed, scenario-based market evaluation
 
 ---
-### Neighborhood Analysis 
-
-<img width="857" height="617" alt="DASHBOARD 8" src="https://github.com/user-attachments/assets/f04a060b-52f3-4c83-a45a-4d3f978aa3cf" />
+### Real Estate Dashboard
+![](https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-20%20115248.png)
 
 ### Insights —
+💰 Market Overview
 
-1. Strong Neighborhood Coverage
-The dashboard tracks 200 neighborhoods, offering a wide and detailed market overview.
+🏷️ Total Market Value: 4.93B
 
-2. Stable Market Pricing
-The average market value (≈492.8K) and average listed price (≈489.6K) are closely aligned, indicating a balanced and competitive market.
+📈 Mean Property Valuation: 492.83K
 
-3. Even Property Distribution
-Property volumes across neighborhoods show consistent activity, with most neighborhoods holding 40–70 properties.
+🏠 Total Properties: 10,000
 
-4. School Rating Spread by City
-Austin, Houston, and Dallas display a diverse mix of school ratings, suggesting varied education quality within each city.
+📐 Cumulative Lot Area: 49.95M sq.ft
 
-5. Value Trend Stability
-Neighborhood-wise market values remain steady around 400K–550K, with few extreme fluctuations.
+📏 Average Lot Area: 4.99K sq.ft
 
-6. Property-Type Mix
-Across all neighborhoods, Apartments (2033) and Condos (1958) are nearly equal in count, indicating a balanced property-type distribution.
+📉 Market Trend
+
+📅 January → February: Market value shows a declining trend
+
+🔻 Indicates possible seasonal slowdown or reduced listings
 
 ---
-### Office Network Distribution & Management 
+### Agent Productivity & Sales Dashboard
 
-<img width="857" height="617" alt="DASHBOARD 9" src="https://github.com/user-attachments/assets/cc883594-797b-4ace-a9b2-fcbb62c32914" />
+![](https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-22%20233413.png)
 
 ### Insights —
 
-1. Strong Office Presence
-A total of 50 offices are actively operating across multiple cities.
+👨‍💼 Agent Productivity & Sales Dashboard
 
-2. Equal Ownership Distribution
-All five owners—Linda, Mark, Peter, Ravi, and Sarah—hold an equal share of offices, each managing 20%.
+🥇 Top agents drive majority sales
 
-3. City-Level Office Spread
-Dallas hosts the highest number of offices, followed by Houston, while Austin has the smallest concentration.
+📊 Large gap between top & average agents
 
-4. Manager Allocation Pattern
-Manager assignments vary by city: Bob Head manages most offices in Dallas, while John Manager and Sally Lead share responsibilities across Houston and Austin.
+📈 Experience doesn’t always mean higher pricing
 
-5. Office Growth Over Time
-Office establishment is spread across multiple decades, with small yet consistent growth observed between 1980 and 2020.
+🌍 Regional & Office Performance Dashboard
 
+🧭 Sales evenly split across regions
+
+🏬 Few offices generate highest sales
+
+📉 Many offices show lower contribution
 ---
-### Comprehensive Property Classification 
-
-<img width="857" height="617" alt="DASHBOARD 10" src="https://github.com/user-attachments/assets/4aec36e9-d8c4-46c8-afc7-29456f48fa9f" />
-
-### Insights —
-
-1. Broad Property Coverage
-The dashboard covers 10,000 properties, offering a complete view of the property landscape.
-
-2. Balanced Property-Type Mix
-Major categories like Apartments (2033), Condos (1958), Duplexes (1984), Houses (1963), and Villas (2062) show a well-distributed property portfolio.
-
-3. Furnishing Preferences
-Furnishing status is evenly split across Furnished, Semi-Furnished, and Unfurnished, each holding a similar share of properties.
-
-4. Market Value Consistency
-Market values for properties fall within a tight range, indicating stable pricing trends across categories.
-
-5. Listed vs. Market Value Alignment
-Listed prices closely follow market values, reflecting a transparent and steady pricing strategy.
-
-6. Year-Based Property Spread
-Properties appear across multiple years, showing a healthy mix of older and newer constructions.
-
----
-### Full Property Master Analysis 
-
-<img width="857" height="617" alt="DASHBOARD 11" src="https://github.com/user-attachments/assets/7f91b1b2-da06-4bd1-97f2-77e5d55d1493" />
+### Property Condition & Summary Dashboard
+![](https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-22%20232854.png)
 
 ### Insights —
 
-1. Diverse Property Portfolio
-The dashboard showcases a wide mix of Condos, Villas, Houses, Duplexes, and Apartments across multiple cities, reflecting a balanced and varied inventory.
+🏗️ Property Condition & Summary Dashboard
 
-2. Strong City Coverage
-Major property activity is concentrated in Dallas, Austin, and Houston, with each city offering properties across multiple neighborhoods.
+❄️ Central cooling most common
 
-3. Pricing Highlights
-Properties show a stable market value range (~80K), while listed prices vary significantly, suggesting different pricing strategies across property types.
+🔥 Central/Electric heating preferred
 
-4. Price Per Square Foot Variation
-Price per square foot ranges widely, indicating significant variation in property size, location, and condition.
-
-5. Detailed Feature Breakdown
-The Feature Table provides granular insights into bedrooms, bathrooms, square feet, lot sizes, and furnishing status, enabling precise property comparison.
-
-6. Owner–Agent Mapping
-The Owner/Agent Table clearly maps which agent manages which property, helping track responsibility, workload, and property allocation.
+🛋️ Mixed furnishing across properties
 
 ---
 
@@ -365,7 +398,7 @@ Agents ↔ Offices
 ### 1️⃣ Download the Repository
 
 ```bash
-(https://github.com/ashwinshende1603/Real-Estate-Analytics-Dashboard/tree/main)
+(https://github.com/NehaGadhave5851/Real-Estate-Analytics-Dashboard/tree/main)
 ```
 
 ### 2️⃣ Install Power BI Desktop
