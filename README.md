@@ -43,80 +43,93 @@ A professional Power BI template designed for analyzing property valuations, lis
 
 ### Insights —
 
-🏘️ 1. PropertyType Distribution Insight
+🧑‍💼 Real Estate Owner Analysis
 
-All property types contribute almost equally (19–21%), showing a well-balanced listing mix.
+🔹 Total Owners: 500
+🔹 Total Properties: 10,000
 
-💰 2. MarketValue vs ListedPrice Insight
+📌 Owner Contribution
 
-Listed prices closely match market values, indicating accurate and consistent pricing across property types.
+🥧 Property ownership almost evenly distributed among owners
 
-📐 3. Avg SquareFeet by PropertyType Insight
+🏆 Peter has the highest property contribution (~23%)
 
-Condos and Houses have the highest average square footage, while Apartments and Duplexes show slightly smaller sizes.
+📌 Listed Value Analysis
 
-🌆 4. Property Count by City Insight
+💰 Peter leads in total listed property value
 
-Dallas leads with the highest number of properties, followed by Houston and Austin with moderate inventory levels.
+📊 All owners show comparable investment levels
 
-🏠 5. Total Properties Insight
+📌 Property Count
 
-A total of 10,000+ properties indicates a large and diverse dataset for analysis.
+🏠 Peter & Linda own the highest number of properties
 
+📉 Sarah owns slightly fewer properties compared to others
+
+📌 City Focus
+
+🌆 Austin dominates in listed properties across owners
 ---
 
-### Property Feature Analysis  
+### Real Estate Property Overview 
  
-<img width="857" height="617" alt="Dashboard 2" src="https://github.com/user-attachments/assets/0eef6a73-3dce-4776-b3c4-65f39b4842f4" />
+ ![](https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-20%20005516.png)
 
 ### Insights —
 
-🛏️ 1. Bedroom Count Insight
+🏘️ Real Estate Property Overview
 
-Bedroom counts are evenly spread, showing a balanced mix of small and large homes.
+🔹 Total Properties: 10K
+🔹 Average Listed Price: ~489K
+🔹 Total Market Value: ~5 Billion
 
-🚿 2. Bathroom Count Insight
+📌 Property Type Distribution
 
-Bathroom distribution is similar across categories, indicating consistent property design standards.
+🏡 Villas & Apartments are the most common property types
 
-📐 3. SquareFeet Bins Insight
+🏢 Condos and Houses show balanced availability
 
-Most properties fall into mid-range square-footage bins, reflecting standard-sized homes.
+📌 City-wise Analysis
 
-🛋️ 4. Furnishing Status Insight
+🌆 Austin has the highest number of properties
 
-Furnished, Semi-Furnished, and Unfurnished properties are almost equally distributed (~33% each).
+🏙️ Houston follows closely
 
-🏡 5. Condition vs PropertyType Insight
+🌇 Dallas has comparatively fewer listings
 
-All property types show mostly Good or Excellent condition, indicating well-maintained listings across the board.
+📌 Listing Type
+
+🔵 Sale listings dominate (~50%)
+
+🟡 Rent & Lease listings are evenly split
 
 ---
-###  Size & Space Utilization  
+###  Real Estate Agent Performance  
+![](https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-20%20010355.png)
 
-<img width="857" height="617" alt="Dashboard 3" src="https://github.com/user-attachments/assets/13cc36ae-5f91-48e8-a9aa-8e32f4e4877e" />
 
 ### Insights —
 
-📏 1. Average LotSize Insight
+🔹 Total Agents: 5
+🔹 Total Properties Handled: 159
 
-The average lot size is 4.99K sq ft, indicating spacious land availability across properties.
+📌 Agent Contribution
 
-🏠 2. Average SquareFeet Insight
+🏆 John Doe & John Smith have the highest property share
 
-The average built-up area is 2.80K sq ft, showing moderately large interior spaces.
+📉 Alex Smith contributes fewer sales comparatively
 
-🚗 3. ParkingSpaces Distribution Insight
+📌 Sales Trend
 
-Parking spaces are evenly distributed, with most properties offering 2–4 parking slots, reflecting good space planning.
+📉 Agent sales show a declining trend over time
 
-📐 4. LotSize vs SquareFeet Insight
+⏳ Indicates possible seasonality or market slowdown
 
-Square footage increases consistently with lot size, showing a strong positive relationship between land area and built-up area.
+📌 Agent-wise Sales
 
-🏗️ 5. YearBuilt vs Property Size Insight
+💼 John Doe & John Smith lead in total sales count
 
-Older properties (around 1905) show large combined square footage, suggesting traditional homes were built more spaciously.
+📊 Alex Smith focuses on fewer but selective deals
 
 ---
 ###  Location-Based Pricing 
