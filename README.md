@@ -37,9 +37,9 @@ A professional Power BI template designed for analyzing property valuations, lis
 ---
 ## 📈 Performance Insights Snapshot
 
-###  Property Overview & Pricing
-
-<img https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-20%20002036.png>
+###  Real estate ownar analysis
+![](https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-20%20002036.png
+)
 
 ### Insights —
 
