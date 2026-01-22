@@ -434,6 +434,6 @@ If you found this project helpful, please give it a star ⭐ to support continuo
 
 For professional dashboard development or collaboration:
 
-Email: ashwinshende1603@gmail.com
+Email: Nehagadhave71@gmail.com
 
 GitHub: https://github.com/NehaGadhave5851
