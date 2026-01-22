@@ -39,7 +39,7 @@ A professional Power BI template designed for analyzing property valuations, lis
 
 ###  Property Overview & Pricing
 
-<img width="857" height="617" alt="Dashboard 1" src="https://github.com/user-attachments/assets/292ff77f-7c72-408d-aa56-98ceb13e79a6" />
+<img https://github.com/NehaGadhave5851/Real_Estate_Analysis-/blob/main/Dashboard.png/Screenshot%202025-12-20%20002036.png>
 
 ### Insights —
 
