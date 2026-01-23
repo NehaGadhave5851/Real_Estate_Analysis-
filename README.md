@@ -480,6 +480,6 @@ If you found this project helpful, please give it a star ⭐ to support continuo
 
 For professional dashboard development or collaboration:
 
-Email: Nehagadhave71@gmail.com
+Email: gadhaveneha71@gmail.com
 
 GitHub: https://github.com/NehaGadhave5851
